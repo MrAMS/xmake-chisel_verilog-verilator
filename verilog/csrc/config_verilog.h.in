@@ -1,0 +1,3 @@
+${define WAVE_MAX_CYCLES}
+
+#define GIT_COMMIT      "${GIT_COMMIT}"
