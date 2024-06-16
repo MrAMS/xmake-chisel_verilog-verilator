@@ -6,6 +6,10 @@
 
 可配置仿真最大波形记录周期数，运行完之后自动运行`gtkwave`查看记录波形。
 
+## Usage
+
+Install [XMake](https://github.com/xmake-io/xmake/) first.
+
 ```bash
 # build & run verilog demo
 $ make verilog
